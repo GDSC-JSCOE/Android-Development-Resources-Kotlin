@@ -2,7 +2,7 @@
 
 ## Roadmap - 
 
-ANDROID DEVELOPMENT ROADMAP - https://youtu.be/U9z1dWjI7eM 
+**Confused where to begin?** Start with... https://youtu.be/U9z1dWjI7eM 
 
 ## Courses -
 
