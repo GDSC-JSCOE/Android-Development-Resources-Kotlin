@@ -11,6 +11,10 @@ Android Basics with Compose - https://developer.android.com/courses/android-basi
 
 Jetpack Compose for Android Developers - https://developer.android.com/courses/jetpack-compose/course 
 
+### YouTube
+Android Basics with Kotlin by Arnav - https://youtube.com/playlist?list=PLl4Y2XuUavmu7PaVo9YgxGqIxW9W0OY9Y 
+
+
 ## Projects - 
 
 Chatting Application - https://youtu.be/8Pv96bvBJL4 
